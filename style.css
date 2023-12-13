@@ -524,7 +524,9 @@ footer span{
 .iconlinks a:hover{
     color: #6cbb78 !important;
 }
-
+.card button a{
+    color: rgb(26, 25, 25) !important;
+}
 
 
 
