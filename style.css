@@ -117,6 +117,14 @@ header .button {
     justify-content: center;
     transition: all 1s ease-in;
 }
+.img-profile img{
+    border: 3px solid #68d372;
+    border-radius: 10px;
+    width: 90%;
+}
+.img-about img{
+width: 65%;
+}
 
 .heroContainer .button:hover {
     color: var(--main--);
@@ -256,7 +264,7 @@ footer span{
 #intro-p:hover ,footer span:hover {
     color: #68d372;
     display: inline-block;
-    animation: rubberBand;
+    animation:rubberBand;
     animation-duration: 1s;
     transition: color 0.4s ease-in-out;
 }
